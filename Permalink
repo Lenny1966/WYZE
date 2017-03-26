@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "name": "http://www.verveallnaturalcleaners.com",
+    "description": "Distributors of Biobased Cleaning Supplies ",
+    "image": {
+      "@id": ".baseURIe",
+      "@type": "@id"
+    },
+    "geo": "t95vdH1nktgkSqlLrShptOMHyoqHySG2Kwkc1mja5QM",
+    "latitude": {
+      "@id": "http://schema.org/latitude",
+      "@type": "xsd:float"
+    },
+    "longitude": {
+      "@id": "http://schema.org/longitude",
+      "@type": "xsd:float"
+    },
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "name": "The Empire State Building",
+  "description": "The Empire State Building is a 102-story landmark in New York City.",
+  "image": "http://www.civil.usherbrooke.ca/cours/gci215a/empire-state-building.jpg",
+  "geo": {
+    "latitude": "40.75",
+    "longitude": "73.98"
+  }
+}
