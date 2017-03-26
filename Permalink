@@ -17,9 +17,9 @@
     },
     "xsd": "http://www.w3.org/2001/XMLSchema#"
   },
-  "name": "The Empire State Building",
-  "description": "The Empire State Building is a 102-story landmark in New York City.",
-  "image": "http://www.civil.usherbrooke.ca/cours/gci215a/empire-state-building.jpg",
+  "name": "Verve All Natural Cleaners & Distributors of Biobased Cleaning Supplies",
+  "description": "Sell non toxic cleaning supplies and clean wit state of the art equiptment.",
+  "image": "http://www.verveallnaturalhousecleaners.com/verve.jpg",
   "geo": {
     "latitude": "40.75",
     "longitude": "73.98"
